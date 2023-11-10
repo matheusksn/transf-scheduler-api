@@ -1,6 +1,6 @@
 ***Sistema de Agendamento de Transferências Financeiras***
 
-Este projeto é como o maestro das suas finanças, permitindo que você agende transferências e tenha um histórico completo desses agendamentos.
+Este projeto permite que você agende transferências e tenha um histórico completo desses agendamentos.
 
 ***Tecnologias Utilizadas:***
 * Spring Boot 3.1.5: Framework utilizado para o desenvolvimento eficiente da aplicação Java.
